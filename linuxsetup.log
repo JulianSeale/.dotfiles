@@ -1,0 +1,10 @@
+./bin/linux.sh: 8: [[Linux: not found
+mkdir: invalid option -- '~'
+Try 'mkdir --help' for more information.
+./bin/linux.sh: 17: [[: not found
+cp: cannot stat '/etc/vimrc': No such file or directory
+./bin/linux.sh: 8: [[Linux: not found
+mkdir: invalid option -- '~'
+Try 'mkdir --help' for more information.
+./bin/linux.sh: 17: [[: not found
+cp: cannot stat '/etc/vimrc': No such file or directory
